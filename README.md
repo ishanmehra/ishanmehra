@@ -1,29 +1,123 @@
-# 💫 About Me:
-Aspiring backend developer based in New Delhi, I specialize in building secure, scalable, and high-performance backend systems using Node.js and Express.js. I have hands-on experience designing REST APIs, implementing robust authentication and authorization with JWT, and architecting databases with MongoDB and PostgreSQL using ORM tools like Sequelize and Prisma. My work includes optimizing API performance, enhancing server-side scalability, and devising effective caching strategies. I’m passionate about delivering production-ready solutions for real-world problems—as seen in my work developing anonymous group chat platforms and improving API response times at Novostack Pvt. Ltd. I love tackling new challenges, collaborating on open-source projects, and continuously learning to refine my backend expertise.
+<div align="center">
 
+```
+██████╗  █████╗  ██████╗██╗  ██╗███████╗███╗   ██╗██████╗     ██████╗ ███████╗██╗   ██╗
+██╔══██╗██╔══██╗██╔════╝██║ ██╔╝██╔════╝████╗  ██║██╔══██╗    ██╔══██╗██╔════╝██║   ██║
+██████╔╝███████║██║     █████╔╝ █████╗  ██╔██╗ ██║██║  ██║    ██║  ██║█████╗  ██║   ██║
+██╔══██╗██╔══██║██║     ██╔═██╗ ██╔══╝  ██║╚██╗██║██║  ██║    ██║  ██║██╔══╝  ╚██╗ ██╔╝
+██████╔╝██║  ██║╚██████╗██║  ██╗███████╗██║ ╚████║██████╔╝    ██████╔╝███████╗ ╚████╔╝
+╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚═════╝     ╚═════╝ ╚══════╝  ╚═══╝
+```
 
-<h1 align="center">Hi 👋, I'm Ishan Mehra</h1>
-<h3 align="center">A passionate backend/node.js developer from India exploring frontend now</h3>
+### Backend Engineer · Node.js · TypeScript · AI/LLM Systems · Distributed Architecture
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishanmehra&label=Profile%20views&color=0e75b6&style=flat" alt="ishanmehra" /> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishan-mehra1)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ishanmehraa)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishanmehra04@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=ishanmehra&style=for-the-badge&color=0e75b6)](https://github.com/ishanmehra)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishanmehra" alt="ishanmehra" /></a> </p>
+</div>
 
-- 🔭 I’m currently working on **Zagio**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ishan-mehra1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishan-mehra1" height="30" width="40" /></a>
-<a href="https://instagram.com/ishannmehraaaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishannmehraaaaa" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ishanmehraa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ishanmehraa" height="30" width="40" /></a>
-</p>
+## ⚡ What I've shipped in production
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+```typescript
+const ishanMehra = {
+  title:    "Backend Engineer @ Edzy",
+  stack:    ["Node.js", "TypeScript", "BullMQ", "Redis", "MongoDB", "AWS", "OpenAI"],
+  building: "AI/LLM orchestration systems + distributed event-driven backends",
+  looking:  "Backend roles in Czech Republic 🇨🇿 | EU Blue Card eligible",
+};
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishanmehra&show_icons=true&locale=en&layout=compact" alt="ishanmehra" /></p>
+| System | What it does | Scale |
+|--------|-------------|-------|
+| 🤖 **Intelo** — LLM Orchestration Backend | TypeScript/Node.js pipeline running prompt templates across chapters, auto-saving outputs to platform models | **60,000+ AI outputs/month** |
+| 📣 **Boop** — Campaign Automation Platform | Event-driven multi-channel messaging (SMS, Email, Push, Telegram, Discord, WhatsApp) | **9,700+ messages/month · 89% delivery SLA** |
+| ⚔️ **Multiplayer Duel Engine** | Real-time WebSocket game state sync with zero dropped states in production | **Live on Edzy** |
+| 💳 **Payment Portal** | Razorpay integration + idempotent webhook pipeline | **Production @ Edzy** |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishanmehra&show_icons=true&locale=en" alt="ishanmehra" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishanmehra&" alt="ishanmehra" /></p>
+## 🛠️ Tech Stack
 
+**Core**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**AI & Queues**
+
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-FF3333?style=flat-square&logo=bull&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Infra & Tools**
+
+![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
+
+**AI Dev Tools**
+
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white)
+![Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔗 [Zagio](https://github.com/ishanmehra/zagio) — Anonymous Group Chat Platform
+> Privacy-first real-time messaging · Node.js · MongoDB Atlas · WebSockets · JWT · Cloudinary
+
+Built a fully anonymous group chat platform with role-based access, real-time messaging, and media uploads. Zero identity leakage between users by design.
+
+### 🔗 [Book Review Platform](https://github.com/ishanmehra/book-review)
+> Node.js · PostgreSQL · Sequelize · Redis caching
+
+REST API for book discovery, ratings, and reviews. Redis caching layer reduces repeat-query latency under read-heavy load.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ishanmehra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishanmehra&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ishanmehra&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📫 Let's connect
+
+I'm actively looking for **backend engineering roles in Czech Republic 🇨🇿** and open to strong opportunities in **Gurugram / Noida** too.
+
+- 📧 ishanmehra04@gmail.com
+- 💼 [linkedin.com/in/ishan-mehra1](https://linkedin.com/in/ishan-mehra1)
+- 🌍 New Delhi, India · EU Blue Card eligible · Open to relocation
+
+> *"I don't just write code — I own systems."*
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=80&section=footer" />
+</div>
